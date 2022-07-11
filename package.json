@@ -1,6 +1,6 @@
 {
-  "name": "ddi",
-  "version": "1.0.0",
+  "name": "downloadiconfont",
+  "version": "1.1.0",
   "description": "download iconfont file",
   "main": "lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "iconfont"
   ],
   "bin": {
-    "ddi": "./bin/ddi.js"
+    "ddi": "./bin/downloadiconfont.js"
   },
   "author": "leesx",
   "license": "ISC",
