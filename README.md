@@ -8,7 +8,7 @@
 npm install ifontdown
 ```
 
-### Uage
+### Usage
 
 在项目根目录下创建 `.iconfontrc` 文件
 需要配置pid和cookie
