@@ -1,0 +1,24 @@
+{
+  "name": "ddi",
+  "version": "1.0.0",
+  "description": "download iconfont file",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iconfont"
+  ],
+  "bin": {
+    "ddi": "./bin/ddi.js"
+  },
+  "author": "leesx",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^2.4.1",
+    "commander": "^9.3.0",
+    "node-stream-zip": "^1.15.0",
+    "request": "^2.88.2"
+  }
+}
