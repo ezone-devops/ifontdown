@@ -1,11 +1,11 @@
-### DDI
+### ifontdown
 
-> `ddi` is  download iconfont tools
+> `ifontdown` is  download iconfont tools
 
 ### 安装
 
 ```
-npm install ddi
+npm install ifontdown
 ```
 
 ### Uage
@@ -17,4 +17,10 @@ npm install ddi
     "pid": "13487", 
     "cookie": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
+```
+
+### 运行
+
+```
+ifontdown start --output ./dist
 ```
